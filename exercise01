@@ -1,0 +1,18 @@
+a) Images:
+<img src="images/SLI-logo.png" width="330" height="150" alt="SLI Logo">
+<img src="images/STEM_summer_camp_600x190.jpg" alt="STEM Summer Camp" width="600" height="190" class="border0">
+<img src="images/STEM_summer_camp_girls_2013_300.jpg" alt="STEM Summer Camp 2013" width="300" height="221" class="box_shadow margR10">
+<img src="images/STEM_summer_camp_boys_2013_300.jpg" alt="STEM Summer Camp 2013" width="300" height="221" class="box_shadow">
+
+b) The logo:
+<img src="images/SLI-logo.png" width="330" height="150" alt="SLI Logo">
+
+c) The class pictures use the class attribute
+
+d) The headers and footers use the id attribute
+
+e) The tagline itself doesn't have an attribute, but its parent tag, the div tag, contains the class attribute.
+
+f) "Session Descriptions":
+<h2 class="left">Session Descriptions</h2>
+The content is in the div class under it.
